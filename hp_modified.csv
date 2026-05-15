@@ -1,0 +1,438 @@
+name,is_male,is_student,is_staff,is_gryffindor,is_slytherin,is_hufflepuff,is_ravenclaw,has_patronus,is_pure_blood,is_half_blood,has_glasses,is_alive
+Harry Potter,1,1,0,1,0,0,0,1,0,1,1,1
+Hermione Granger,0,1,0,1,0,0,0,1,0,0,0,1
+Ron Weasley,1,1,0,1,0,0,0,1,1,0,0,1
+Draco Malfoy,1,1,0,0,1,0,0,0,1,0,0,1
+Minerva McGonagall,0,0,1,1,0,0,0,1,0,1,1,1
+Cedric Diggory,1,1,0,0,0,1,0,0,0,0,0,0
+Cho Chang,0,1,0,0,0,0,1,1,0,0,0,1
+Severus Snape,1,0,1,0,1,0,0,1,0,1,0,0
+Rubeus Hagrid,1,0,1,1,0,0,0,0,0,1,0,1
+Neville Longbottom,1,1,0,1,0,0,0,1,1,0,0,1
+Luna Lovegood,0,1,0,0,0,0,1,1,1,0,0,1
+Ginny Weasley,0,1,0,1,0,0,0,1,1,0,0,1
+Sirius Black,1,0,0,1,0,0,0,1,1,0,0,0
+Remus Lupin,1,0,1,1,0,0,0,1,0,1,0,0
+Arthur Weasley,1,0,0,1,0,0,0,1,1,0,1,1
+Bellatrix Lestrange,0,0,0,0,1,0,0,0,1,0,0,0
+Lord Voldemort,1,0,0,0,1,0,0,0,0,1,0,0
+Horace Slughorn,1,0,1,0,1,0,0,0,1,0,0,1
+Kingsley Shacklebolt,1,0,0,0,0,0,0,1,1,0,0,1
+Dolores Umbridge,0,0,1,0,1,0,0,1,0,1,0,1
+Lucius Malfoy,1,0,0,0,1,0,0,0,1,0,0,1
+Vincent Crabbe,1,1,0,0,1,0,0,0,1,0,0,0
+Mr Crabbe,1,0,0,0,1,0,0,0,1,0,0,0
+Gregory Goyle,1,1,0,0,1,0,0,0,1,0,0,1
+Mr Goyle,1,0,0,0,1,0,0,0,1,0,0,1
+Mrs Norris,0,0,0,0,0,0,0,0,0,0,0,1
+Argus Filch,1,0,1,0,0,0,0,0,0,0,0,1
+Vernon Dursley,1,0,0,0,0,0,0,0,0,0,0,1
+Petunia Dursley,0,0,0,0,0,0,0,0,0,0,0,1
+Dudley Dursley,1,0,0,0,0,0,0,0,0,0,0,1
+Boa constrictor,1,0,0,0,0,0,0,0,0,0,0,1
+Lily Potter,0,0,0,1,0,0,0,0,0,0,0,0
+James Potter,1,0,0,1,0,0,0,1,1,0,1,0
+Albus Dumbledore,1,0,1,1,0,0,0,1,0,1,1,0
+Fawkes,1,0,0,0,0,0,0,0,0,0,0,1
+Madam Pomfrey,0,0,1,0,0,0,0,0,0,0,0,1
+Mrs Figg,0,0,0,0,0,0,0,0,0,0,0,1
+Marge Dursley,0,0,0,0,0,0,0,0,0,0,0,1
+Ripper,1,0,0,0,0,0,0,0,0,0,0,1
+Yvonne,0,0,0,0,0,0,0,0,0,0,0,1
+Piers Polkiss,1,0,0,0,0,0,0,0,0,0,0,1
+Dennis,1,0,0,0,0,0,0,0,0,0,0,1
+Malcolm,1,0,0,0,0,0,0,0,0,0,0,1
+Gordon,1,0,0,0,0,0,0,0,0,0,0,1
+Miranda Gaushawk,0,0,0,0,0,0,0,0,0,0,0,1
+Bathilda Bagshot,0,0,0,0,0,0,0,0,0,0,1,0
+Adalbert Waffling,1,0,0,0,0,0,0,0,0,0,0,0
+Emeric Switch,1,0,0,0,0,0,0,0,0,0,0,0
+Phyllida Spore,0,0,0,0,0,0,0,0,0,0,0,0
+Arsenius Jigger,1,0,0,0,0,0,0,0,0,0,0,0
+Newt Scamander,1,0,0,0,0,1,0,0,0,0,0,1
+Quentin Trimble,1,0,0,0,0,0,0,0,0,0,0,0
+Tom,1,0,0,0,0,0,0,0,0,0,0,1
+Doris Crockford,0,0,0,0,0,0,0,0,0,0,0,1
+Quirinus Quirrel,1,0,1,0,0,0,0,0,0,0,0,0
+Griphook,1,0,0,0,0,0,0,0,0,0,0,0
+Madam Malkin,0,0,0,0,0,0,0,0,0,0,0,1
+Vindictus Viridian,1,0,0,0,0,0,0,0,0,0,0,0
+Garrick Ollivander,1,0,0,0,0,0,0,0,0,0,0,1
+Hedwig,0,0,0,0,0,0,0,0,0,0,0,0
+Trevor,1,0,0,0,0,0,0,0,0,0,0,1
+Hermes,1,0,0,0,0,0,0,0,0,0,0,1
+Errol,1,0,0,0,0,0,0,0,0,0,0,1
+Pigwidgeon,1,0,0,0,0,0,0,0,0,0,0,1
+Molly Weasley,0,0,0,1,0,0,0,0,1,0,0,1
+Percy Weasley,1,1,0,1,0,0,0,0,1,0,1,1
+Fred Weasley,1,1,0,1,0,0,0,0,1,0,0,0
+George Weasley,1,1,0,1,0,0,0,0,1,0,0,1
+Lee Jordan,1,1,0,1,0,0,0,0,0,0,0,1
+Bill Weasley,1,0,0,1,0,0,0,0,1,0,0,1
+Charlie Weasley,1,0,0,1,0,0,0,0,1,0,0,1
+Fat Friar,1,0,0,0,0,1,0,0,0,0,0,0
+Peeves,1,0,0,0,0,0,0,0,0,0,0,0
+Hannah Abbott,0,1,0,0,0,1,0,0,0,1,0,1
+Susan Bones,0,1,0,0,0,1,0,0,0,0,0,1
+Terry Boot,1,1,0,0,0,0,1,0,0,0,0,1
+Mandy Brocklehurst,0,1,0,0,0,0,1,0,0,0,0,1
+Lavender Brown,0,1,0,1,0,0,0,0,0,0,0,1
+Millicent Bulstrode,0,1,0,0,1,0,0,0,0,0,0,1
+Justin Finch-Fletchley,1,1,0,0,0,1,0,0,0,0,0,1
+Seamus Finnigan,1,1,0,1,0,0,0,0,0,1,0,1
+Mrs Finnigan,0,0,0,0,0,0,0,0,0,0,0,1
+Mr Finnigan,1,0,0,0,0,0,0,0,0,0,0,1
+Morag MacDougal,0,1,0,0,0,0,0,0,0,0,0,1
+Lily Moon,0,1,0,0,0,0,0,0,0,0,0,1
+Theodore Nott,1,1,0,0,1,0,0,0,1,0,0,1
+Mr Nott,1,1,0,0,0,0,0,0,1,0,0,1
+Pansy Parkinson,0,1,0,0,1,0,0,0,0,0,0,1
+Parvati Patil,0,1,0,1,0,0,0,0,0,0,0,1
+Padma Patil,0,1,0,0,0,0,1,0,0,0,0,1
+Sally-Anne Perks,0,1,0,0,0,0,0,0,0,0,0,1
+Lisa Turpin,0,1,0,0,0,0,1,0,0,0,0,1
+Blaise Zabini,1,1,0,0,1,0,0,0,0,0,0,1
+Nearly Headless Nick,1,0,0,1,0,0,0,0,0,0,0,0
+Bloody Baron,1,0,0,0,1,0,0,0,0,0,0,0
+The Wailing Widow,0,0,0,0,0,0,0,0,0,0,0,0
+Fat Lady,0,0,0,0,0,0,0,0,0,0,0,0
+Pomona Sprout,0,0,1,0,0,1,0,0,0,0,0,1
+Cuthbert Binns,1,0,1,0,0,0,0,0,0,0,0,0
+Emeric the Evil,1,0,0,0,0,0,0,0,0,0,0,0
+Uric the Oddball,1,0,0,0,0,0,0,0,0,0,0,0
+Filius Flitwick,1,0,1,0,0,0,1,0,0,0,0,1
+Madam Hooch,0,0,1,0,0,0,0,0,0,0,0,1
+Oliver Wood,1,1,0,0,0,0,0,0,0,0,0,1
+Gregory the Smarmy,1,0,0,0,0,0,0,0,0,0,0,0
+Wizard Baruffio,1,0,0,0,0,0,0,0,0,0,0,0
+Angelina Johnson,0,1,0,1,0,0,0,0,0,0,0,1
+Marcus Flint,1,1,0,0,1,0,0,0,0,0,0,1
+Alicia Spinet,0,1,0,1,0,0,0,0,0,0,0,1
+Katie Bell,0,1,0,1,0,0,0,0,0,0,0,1
+Adrian Pucey,1,1,0,0,1,0,0,0,0,0,0,1
+Miles Bletchley,1,1,0,0,1,0,0,0,0,0,0,1
+Terence Higgs,1,1,0,0,1,0,0,0,0,0,0,1
+Fang,1,0,0,0,0,0,0,0,0,0,0,1
+Fluffy,1,0,0,0,0,0,0,0,0,0,0,1
+Nicolas Flamel,1,0,0,0,0,0,0,0,0,0,0,0
+Gellert Grindelwald,1,0,0,0,0,0,0,0,0,0,0,0
+Norberta,0,0,0,0,0,0,0,0,0,0,0,1
+Ronan,1,0,0,0,0,0,0,0,0,0,0,1
+Bane,1,0,0,0,0,0,0,0,0,0,0,1
+Firenze,1,0,1,0,0,0,0,0,0,0,0,1
+The Giant Squid,0,0,0,0,0,0,0,0,0,0,0,1
+Murcus,0,0,0,0,0,0,0,0,0,0,0,1
+Elfrick the Eager,1,0,0,0,0,0,0,0,0,0,0,0
+Perenelle Flamel,0,0,0,0,0,0,0,0,0,0,0,0
+Bertie Bott,1,0,0,0,0,0,0,0,0,0,0,1
+Dobby,1,0,0,0,0,0,0,0,0,0,0,0
+Kreacher,1,0,0,0,0,0,0,0,0,0,0,0
+Mr Mason,1,0,0,0,0,0,0,0,0,0,0,1
+Mrs Mason,0,0,0,0,0,0,0,0,0,0,0,1
+Perkins,1,0,0,0,0,0,0,0,0,0,0,1
+Celestina Warbeck,0,0,0,1,0,0,0,0,0,1,0,1
+Gilderoy Lockhart,1,0,1,0,0,0,0,0,0,1,0,1
+The Basilisk,0,0,0,0,0,0,0,0,0,0,0,0
+Mundungus Fletcher,1,0,0,0,0,0,0,0,0,0,0,1
+Mr Borgin,1,0,0,0,0,0,0,0,0,0,0,1
+Mr Granger,1,0,0,0,0,0,0,0,0,0,0,1
+Mrs Granger,0,0,0,0,0,0,0,0,0,0,0,1
+Dr Filibuster,1,0,0,0,0,0,0,0,0,0,0,1
+Colin Creevey,1,1,0,1,0,0,0,0,0,0,0,0
+Gladys Gudgeon,0,0,0,0,0,0,0,0,0,0,0,1
+Veronica Smethley,0,0,0,0,0,0,0,0,0,0,0,1
+Patrick Delaney-Podmore,1,0,0,0,0,0,0,0,0,0,0,0
+Z. Nettles,0,0,0,0,0,0,0,0,0,0,0,1
+D.J. Prod,1,0,0,0,0,0,0,0,0,0,0,0
+Elsie Prod,0,0,0,0,0,0,0,0,0,0,0,1
+Moaning Myrtle,0,0,0,0,0,0,1,0,0,0,1,0
+Godric Gryffindor,1,0,0,0,0,0,0,0,0,0,0,0
+Rowena Ravenclaw,0,0,0,0,0,0,0,0,0,0,0,0
+Helga Hufflepuff,0,0,0,0,0,0,0,0,0,0,0,0
+Salazar Slytherin,1,0,0,0,0,0,0,0,0,0,0,0
+Madame Pince,0,0,1,0,0,0,0,0,0,0,0,1
+Milicent Bullstroude,0,1,0,0,1,0,0,0,0,0,0,1
+Ernie Macmillan,1,1,0,0,0,1,0,1,0,0,0,1
+Armando Dippet,1,0,0,0,0,0,0,0,0,0,0,0
+Penelope Clearwater,0,1,0,0,0,0,1,0,0,0,0,1
+Cornelius Fudge,1,0,0,0,0,0,0,0,0,0,0,1
+Oblansk,1,0,0,0,0,0,0,0,0,0,0,1
+Aragog,1,0,0,0,0,0,0,0,0,0,0,0
+Mosag,0,0,0,0,0,0,0,0,0,0,0,1
+Stanley Shunpike,1,0,0,0,0,0,0,0,0,0,0,1
+Ernest Prang,1,0,0,0,0,0,0,0,0,0,0,1
+Madam Marsh,0,0,0,0,0,0,0,0,0,0,0,1
+Florean Fortescue,1,0,0,0,0,0,0,0,0,0,0,0
+Sir Cadogan,1,0,0,0,0,0,0,0,0,0,0,0
+Sybill Trelawney,0,0,1,0,0,0,0,0,0,0,1,1
+Buckbeak,1,0,0,0,0,0,0,0,0,0,0,1
+Peter Pettigrew,1,0,0,1,0,0,0,0,0,0,0,0
+Crookshanks,1,0,0,0,0,0,0,0,0,0,0,1
+The Trolley Witch,0,0,0,0,0,0,0,0,0,0,0,1
+The Sorting Hat,0,0,0,0,0,0,0,0,0,0,0,1
+Madam Rosmerta,0,0,0,0,0,0,0,0,0,0,0,1
+Derek,1,1,0,0,0,0,0,0,0,0,0,1
+Septima Vector,0,0,1,0,0,0,0,0,0,0,0,1
+Cassius Warrington,1,1,0,0,1,0,0,0,0,0,0,1
+Graham Montague,1,1,0,0,1,0,0,0,0,0,0,1
+Peregrine Derrick,1,1,0,0,1,0,0,0,0,0,0,1
+Lucian Bole,1,1,0,0,1,0,0,0,0,0,0,1
+Walden Macnair,1,0,0,0,1,0,0,0,0,0,0,1
+Franc Bryce,1,0,0,0,0,0,0,0,0,0,0,0
+Dot,0,0,0,0,0,0,0,0,0,0,0,0
+Bertha Jorkins,0,0,0,0,0,0,0,0,0,0,0,0
+Barty Crouch,1,0,0,0,0,0,0,0,1,0,0,0
+Barty Crouch Junior,1,0,0,0,0,0,0,0,0,0,0,1
+Mrs Crouch,0,0,0,0,0,0,0,0,0,0,0,0
+Ludo Bagman,1,0,0,0,0,0,0,0,0,0,0,1
+Amos Diggory,1,0,0,0,0,0,0,0,0,0,0,1
+Mrs Diggory,0,0,0,0,0,0,0,0,0,0,0,1
+Mr Roberts,1,0,0,0,0,0,0,0,0,0,0,1
+Mrs Roberts,0,0,0,0,0,0,0,0,0,0,0,1
+Kevin,1,0,0,0,0,0,0,0,0,0,0,1
+Mr Payne,1,0,0,0,0,0,0,0,0,0,0,1
+Basil,1,0,0,0,0,0,0,0,0,0,0,1
+Archie Aymslowe,1,0,0,0,0,0,0,0,0,0,0,1
+Cuthbert Mockridge,1,0,0,0,0,0,0,0,0,0,0,1
+Gilbert Wimple,1,0,0,0,0,0,0,0,0,0,0,1
+Arnold Peasegood,1,0,0,0,0,0,0,0,0,0,0,1
+Broderick Bode,1,0,0,0,0,0,0,0,0,0,0,0
+Saul Croaker,1,0,0,0,0,0,0,0,0,0,0,1
+Ali Bashir,1,0,0,0,0,0,0,0,0,0,0,1
+Victor Krum,1,0,0,0,0,0,0,0,0,0,0,1
+Winky,0,0,0,0,0,0,0,0,0,0,0,1
+Narcissa Malfoy,0,0,0,0,0,0,0,0,1,0,0,1
+Vasily Dimitrov,1,0,0,0,0,0,0,0,0,0,0,1
+Clara Ivanova,0,0,0,0,0,0,0,0,0,0,0,1
+Lev Zograf,1,0,0,0,0,0,0,0,0,0,0,1
+Alexei Levski,1,0,0,0,0,0,0,0,0,0,0,1
+Pyotr Vulchanov,1,0,0,0,0,0,0,0,0,0,0,1
+Ivan Volkov,1,0,0,0,0,0,0,0,0,0,0,1
+Connolly,1,0,0,0,0,0,0,0,0,0,0,1
+Barry Ryan,1,0,0,0,0,0,0,0,0,0,0,1
+Troy,1,0,0,0,0,0,0,0,0,0,0,1
+Mullet,0,0,0,0,0,0,0,0,0,0,0,1
+Moran,0,0,0,0,0,0,0,0,0,0,0,1
+Quigley,1,0,0,0,0,0,0,0,0,0,0,1
+Aidan Lynch,1,0,0,0,0,0,0,0,0,0,0,1
+Hassan Mostafa,1,0,0,0,0,0,0,0,0,0,0,1
+Dennis Creevey,1,1,0,0,0,0,0,0,0,0,0,1
+Aurora Sinistra,0,0,1,0,0,0,0,0,0,0,0,1
+Stewart Ackerley,1,1,0,0,0,0,1,0,0,0,0,1
+Malcolm Baddock,1,1,0,0,1,0,0,0,0,0,0,1
+Eleanor Branstone,0,1,0,0,0,1,0,0,0,0,0,1
+Owen Cauldwell,1,1,0,0,0,1,0,0,0,0,0,1
+Emma Dobbs,0,1,0,0,0,0,0,0,0,0,0,1
+Laura Madley,0,1,0,0,0,1,0,0,0,0,0,1
+Natalie McDonald,0,1,0,1,0,0,0,0,0,0,0,1
+Graham Pritchard,1,1,0,0,1,0,0,0,0,0,0,1
+Orla Quirke,0,1,0,0,0,0,1,0,0,0,0,1
+Kevin Whitby,1,1,0,0,0,1,0,0,0,0,0,1
+Eloise Midgen,0,1,0,1,0,0,0,0,0,0,0,1
+Alastor Moody,1,0,1,0,0,0,0,0,1,0,0,0
+Madame Maxime,0,0,0,0,0,0,0,0,0,0,0,1
+Igor Karkaroff,1,0,0,0,0,0,0,0,0,0,0,0
+Poliakoff,1,0,0,0,0,0,0,0,0,0,0,1
+Fawcett,0,1,0,0,0,0,1,0,0,0,0,1
+Summers,1,1,0,0,0,1,0,0,0,0,0,1
+Fleur Delacour,0,0,0,0,0,0,0,0,0,0,0,1
+Gregorovic,1,0,0,0,0,0,0,0,0,0,0,0
+Rita Skeeter,0,0,0,0,0,0,0,0,0,0,1,1
+Stebbins,1,1,0,0,0,0,1,0,0,0,0,1
+Wilhelmina Grubbly-Plank,0,0,1,0,0,0,0,0,0,0,0,1
+Bozo,1,0,0,0,0,0,0,0,0,0,0,1
+Evan Rosier,1,0,0,0,1,0,0,0,0,0,0,0
+Wilkes,1,0,0,0,1,0,0,0,0,0,0,0
+Avery,1,0,0,0,1,0,0,0,0,0,0,1
+Antonin Dolohov,1,0,0,0,0,0,0,0,0,0,0,1
+Travers,1,0,0,0,0,0,0,0,0,0,0,1
+Marlene McKinnon,0,0,0,0,0,0,0,0,0,0,0,0
+Mulciber,1,0,0,0,1,0,0,0,0,0,0,1
+Augustus Rookwood,1,0,0,0,0,0,0,0,0,0,0,1
+Frank Longbottom,1,0,0,0,0,0,0,0,1,0,0,1
+Alice Longbottom,0,0,0,0,0,0,0,0,1,0,0,1
+Augusta Longbottom,0,0,0,0,0,0,0,0,1,0,0,1
+Violet,0,0,0,0,0,0,0,0,0,0,0,0
+Apollyon Pringle,1,0,0,0,0,0,0,0,0,0,0,1
+Ogg,1,0,0,0,0,0,0,0,0,0,0,1
+Mafalda Hopkirk,0,0,0,0,0,0,0,0,0,0,0,1
+Nymphadora Tonks,0,0,0,0,0,1,0,0,0,0,0,0
+Elphias Doge,1,0,0,0,0,0,0,0,1,0,0,1
+Dedalus Diggle,1,0,0,0,0,0,0,0,0,0,0,1
+Sturgis Podmore,1,0,0,0,0,0,0,0,0,0,0,1
+Hestia Jones,0,0,0,0,0,0,0,0,0,0,0,1
+Ragnok,1,0,0,0,0,0,0,0,0,0,0,1
+Alphard Black,1,0,0,0,1,0,0,0,1,0,0,0
+Regulus Black,1,0,0,0,1,0,0,0,1,0,0,0
+Phineas Nigelus Black,1,0,0,0,1,0,0,0,1,0,0,0
+Araminta Meliflua Black,0,0,0,0,1,0,0,0,0,0,0,0
+Elladora Black,0,0,0,0,0,0,0,0,1,0,0,0
+Mrs Black,0,0,0,0,0,0,0,0,1,0,0,0
+Andromeda Tonks,0,0,0,0,1,0,0,0,1,0,0,1
+Ted Tonks,0,0,0,0,0,0,0,0,0,0,0,0
+Rodolphus Lestrange,1,0,0,0,1,0,0,0,1,0,0,1
+Rabastan Lestrange,1,0,0,0,1,0,0,0,1,0,0,1
+Eric Munch,1,0,0,0,0,0,0,0,0,0,0,1
+Bob,1,0,0,0,0,0,0,0,0,0,0,1
+Bengie Fenwick,1,0,0,0,0,0,0,0,0,0,0,0
+Edgar Bones,1,0,0,0,0,0,0,0,0,0,0,0
+Amelia Bones,0,0,0,0,0,0,0,0,0,0,0,1
+Caradoc Dearborn,1,0,0,0,0,0,0,0,0,0,0,0
+Gideon Prewett,1,0,0,0,0,0,0,0,1,0,0,0
+Fabian Prewett,1,0,0,0,0,0,0,0,1,0,0,0
+Aberforth Dumbledore,1,0,0,1,0,0,0,1,0,1,0,1
+Dorcas Meadowes,0,0,0,0,0,0,0,0,0,0,0,0
+Algie Longbottom,1,0,0,0,0,0,0,0,0,0,0,1
+Anthony Goldstein,1,1,0,0,0,0,1,0,0,0,0,1
+Doris Purkiss,1,0,0,0,0,0,0,0,0,0,0,1
+Euan Abercrombie,1,1,0,1,0,0,0,0,0,0,0,1
+Rose Zeller,0,1,0,0,0,1,0,0,0,0,0,1
+Patricia Stimpson,0,1,0,0,0,0,0,0,0,0,0,1
+Kenneth Towler,1,1,0,1,0,0,0,0,0,0,0,1
+Vicky Frobisher,0,1,0,1,0,0,0,0,0,0,0,1
+Geoffrey Hooper,1,1,0,1,0,0,0,0,0,0,0,1
+Cassandra Trelawney,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Corner,1,1,0,0,0,0,1,0,0,0,0,1
+Zacharias Smith,1,1,0,0,0,0,1,0,0,0,0,1
+Barnabas the Barmy,1,1,0,0,0,0,0,0,0,0,0,0
+Karkus,1,0,0,0,0,0,0,0,0,0,0,0
+Golgomath,1,0,0,0,0,0,0,0,0,0,0,1
+Fridwulfa,0,0,0,0,0,0,0,0,0,0,0,0
+Andrew Kirke,1,1,0,1,0,0,0,0,0,0,0,1
+Jack Sloper,1,1,0,1,0,0,0,0,0,0,0,1
+Everard,1,0,0,0,0,0,0,0,0,0,0,0
+Dilys Derwent,0,0,0,0,0,0,0,0,0,0,0,0
+Hippocrates Smethwyck,1,0,0,0,0,0,0,0,0,0,0,1
+Augustus Pye,1,0,0,0,0,0,0,0,0,0,0,1
+Urquhart Rackharrow,1,0,0,0,0,0,0,0,0,0,0,0
+Willy Widdershins,1,0,0,0,0,0,0,0,0,0,0,1
+Agnes,0,0,0,0,0,0,0,0,0,0,0,1
+Miriam Strout,0,0,0,0,0,0,0,0,0,0,0,1
+Madam Puddifoot,0,0,0,0,0,0,0,0,0,0,0,1
+Summerby,1,1,0,0,0,1,0,0,0,0,0,1
+Marietta Edgecombe,0,1,0,0,0,0,1,0,0,0,0,1
+Madam Edgecombe,0,0,0,0,0,0,0,0,0,0,0,1
+John Dawlish,1,0,0,0,0,0,0,0,0,0,0,1
+Williamson,1,0,0,0,0,0,0,0,0,0,0,1
+Bradley,1,1,0,0,0,0,1,0,0,0,0,1
+Roger Davies,1,1,0,0,0,0,1,0,0,0,0,1
+Grawp,1,0,0,0,0,0,0,0,0,0,0,1
+Griselda Marchbanks,0,0,0,0,0,0,0,0,0,0,0,1
+Eddie Carmichael,1,1,0,0,0,0,1,0,0,0,0,1
+Daphne Greengrass,0,1,0,0,1,0,0,0,1,0,0,1
+Tofty,1,0,0,0,0,0,0,0,0,0,0,1
+Tiberius Ogden,1,0,0,0,0,0,0,0,0,0,0,1
+Pierre Bonaccord,1,0,0,0,0,0,0,0,0,0,0,1
+Stubby Boardman,1,0,0,0,0,0,0,0,0,0,0,1
+Magorian,1,0,0,0,0,0,0,0,0,0,0,1
+Emmeline Vance,0,0,0,0,0,0,0,0,0,0,0,0
+Herbert Chorley,1,0,0,0,0,0,0,0,0,0,0,1
+The British Prime Minister,1,0,0,0,0,0,0,0,0,0,0,1
+Ulick Gamp,1,0,0,0,0,0,0,0,0,0,0,0
+Rufus Scrimgeour,1,0,0,0,0,0,0,0,0,0,0,0
+Corban Yaxley,1,0,0,0,0,0,0,0,0,0,0,1
+Fenrir Greyback,1,0,0,0,0,0,0,0,0,0,0,1
+Dirk Cresswell,1,0,0,0,0,0,0,0,0,0,0,0
+Barnabas Cuffe,1,0,0,0,0,0,0,0,0,0,0,1
+Ambrosius Flume,1,0,0,0,0,0,0,0,0,0,0,1
+Gwenog Jones,0,0,0,0,0,0,0,0,0,0,0,1
+Arkie Philpott,1,0,0,0,0,0,0,0,0,0,0,1
+Verity,0,0,0,0,0,0,0,0,0,0,0,1
+Arnold,1,0,0,0,0,0,0,0,0,0,0,1
+Romilda Vane,0,1,0,1,0,0,0,0,0,0,0,1
+Cormac McLaggen,1,1,0,1,0,0,0,0,0,0,0,1
+Marcus Belby,1,1,0,0,0,0,1,0,0,0,0,1
+Damocles Belby,1,0,0,0,0,0,0,0,0,0,0,0
+Tiberius,1,1,0,0,0,0,0,0,0,0,0,0
+Bertie Higgs,1,0,0,0,0,0,0,0,0,0,0,0
+Proudfoot,1,0,0,0,0,0,0,0,0,0,0,1
+Savage,1,0,0,0,0,0,0,0,0,0,0,1
+Humphrey Belcher,1,0,0,0,0,0,0,0,0,0,0,1
+Bob Ogden,1,0,0,0,0,0,0,0,0,0,0,0
+Morfin Gaunt,1,0,0,0,0,0,0,0,1,0,0,0
+Marvolo Gaunt,1,0,0,0,0,0,0,0,1,0,0,0
+Merope Gaunt,0,0,0,0,0,0,0,0,1,0,0,0
+Cecilia,0,0,0,0,0,0,0,0,0,0,0,0
+Tom Riddle,1,0,0,0,0,0,0,0,0,0,0,0
+Demelza Robins,0,1,0,1,0,0,0,0,0,0,0,1
+Jimmy Peakes,1,1,0,1,0,0,0,0,0,0,0,1
+Ritchie Coote,1,1,0,1,0,0,0,0,0,0,0,1
+Melinda Bobbin,0,1,0,0,0,0,0,0,0,0,0,1
+Leanne,0,1,0,0,0,1,0,0,0,0,0,1
+Caractacus Burke,1,0,0,0,0,0,0,0,0,0,0,0
+Billy Stubbs,1,0,0,0,0,0,0,0,0,0,0,1
+Amy Benson,0,0,0,0,0,0,0,0,0,0,0,1
+Dennis Bishop,1,0,0,0,0,0,0,0,0,0,0,1
+Mrs Cole,0,0,0,0,0,0,0,0,0,0,0,1
+Eric Whalley,1,0,0,0,0,0,0,0,0,0,0,1
+Vaisey,1,1,0,0,1,0,0,0,0,0,0,1
+Harper,1,1,0,0,1,0,0,0,0,0,0,1
+Urquhart,1,1,0,0,1,0,0,0,0,0,0,1
+Eldred Worple,1,0,0,0,0,0,0,0,0,0,0,1
+Sanguini,1,0,0,0,0,0,0,0,0,0,0,1
+Gawain Robards,1,0,0,0,0,0,0,0,0,0,0,1
+Fergus,1,0,0,0,0,0,0,0,0,0,0,1
+Wilkie Twycross,1,0,0,0,0,0,0,0,0,0,0,1
+Cadwallader,1,1,0,0,0,1,0,0,0,0,0,1
+Galatea Merrythought,0,0,1,0,0,0,0,0,0,0,0,0
+Hepzibah Smith,0,0,0,0,0,0,0,0,0,0,0,0
+Hokey,0,0,0,0,0,0,0,0,0,0,0,0
+Octavius Pepper,1,0,0,0,0,0,0,0,0,0,0,0
+Bertram Aubrey,1,0,0,0,0,0,0,0,0,0,0,0
+Eileen Prince,0,0,0,0,0,0,0,0,1,0,0,0
+Amycus Carrow,1,0,0,0,1,0,0,0,0,0,0,1
+Alecto Carrow,0,0,0,0,1,0,0,0,0,0,0,1
+Gibbon,1,0,0,0,0,0,0,0,0,0,0,0
+Tobias Snape,1,0,0,0,0,0,0,0,0,0,0,1
+Pius Thicknesse,1,0,0,0,0,0,0,0,0,0,0,1
+Wakanda,0,0,0,0,0,0,0,0,0,0,0,1
+Charity Burbage,0,0,1,0,0,0,0,0,0,0,0,0
+Percival Dumbledore,1,0,0,0,0,0,0,0,0,0,0,0
+Kendra Dumbledore,0,0,0,0,0,0,0,0,0,0,0,0
+Ariana Dumbledore,0,0,0,0,0,0,0,0,0,1,0,0
+Betty Braithwaite,0,0,0,0,0,0,0,0,0,0,0,1
+Apolline Delacour,0,0,0,0,0,0,0,0,0,1,0,1
+Gabrielle Delacour,0,0,0,0,0,0,0,0,0,0,0,1
+Monsieur Delacour,1,0,0,0,0,0,0,0,0,0,0,1
+Dragomir Gorgovitch,1,0,0,0,0,0,0,0,0,0,0,1
+Xenophilius Lovegood,1,0,0,0,0,0,1,0,0,0,0,1
+Pandora Lovegood,0,0,0,0,0,0,1,0,0,0,0,0
+Muriel,0,0,0,0,0,0,0,0,0,0,0,1
+Bilius,1,0,0,0,0,0,0,0,0,0,0,0
+Thorfinn Rowle,1,0,0,0,0,0,0,0,0,0,0,1
+Reg Cattermole,1,0,0,0,0,0,0,0,0,0,0,1
+Albert Runcorn,1,0,0,0,0,0,0,0,0,0,0,1
+Arkie Alderton,1,0,0,0,0,0,0,0,0,0,0,1
+Mary Cattermole,0,0,0,0,0,0,0,0,0,0,0,1
+Maisie Cattermole,0,0,0,0,0,0,0,0,0,0,0,1
+Ellie Cattermole,0,0,0,0,0,0,0,0,0,0,0,1
+Alfred Cattermole,1,0,0,0,0,0,0,0,0,0,0,1
+Gornuk,1,0,0,0,0,0,0,0,0,0,0,0
+Bowman Wright,1,0,0,0,0,0,0,0,0,0,0,0
+Ivor Dillonsby,1,0,0,0,0,0,0,0,0,0,0,1
+Enid Smeek,0,0,0,0,0,0,0,0,0,0,0,1
+Egbert the Egregious,1,0,0,0,0,0,0,0,0,0,0,0
+Godelot,1,0,0,0,0,0,0,0,0,0,0,0
+Hereward,1,0,0,0,0,0,0,0,0,0,0,0
+Loxias,1,0,0,0,0,0,0,0,0,0,0,0
+Barnabas Deverill,1,0,0,0,0,0,0,0,0,0,0,0
+Arcus,1,0,0,0,0,0,0,0,0,0,0,0
+Livius,1,0,0,0,0,0,0,0,0,0,0,0
+Antioch Peverell,1,0,0,0,0,0,0,0,1,0,0,0
+Cadmus Peverell,1,0,0,0,0,0,0,0,1,0,0,0
+Ignotus Peverell,1,0,0,0,0,0,0,0,1,0,0,0
+Selwyn,1,0,0,0,0,0,0,0,1,0,0,1
+Scabior,1,0,0,0,1,0,0,0,0,0,0,1
+Ragnuk the First,1,0,0,0,0,0,0,0,0,0,0,0
+Ted Lupin,1,0,0,0,0,1,0,0,0,1,0,1
+Marius,1,0,0,0,0,0,0,0,0,0,0,1
+Bogrod,1,0,0,0,0,0,0,0,0,0,0,1
+The Grey Lady,0,0,0,0,0,0,0,0,0,0,0,0
+Dexter Fortescue,1,0,0,0,0,0,0,0,0,0,0,0
+Lily Potter,0,0,0,1,0,0,0,0,0,1,0,1
+James Potter,1,1,0,1,0,0,0,0,0,1,0,1
+Albus Severus Potter,1,1,0,0,1,0,0,0,0,1,0,1
+Rose Weasley,0,1,0,1,0,0,0,0,0,1,0,1
+Hugo Weasley,1,1,0,0,0,0,0,0,0,1,0,1
+Scorpius Malfoy,1,1,0,0,1,0,0,0,1,0,0,1
+Victoire Weasley,0,1,0,0,0,0,0,0,0,0,0,1
