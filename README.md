@@ -23,3 +23,10 @@ hp_akinator/
 ├── backend.py         # Machine Learning Engine & custom mathematical splitting
 ├── hp_modified.csv    # Your finalized, curated, binary character dataset
 └── README.md          # Project documentation
+
+<img width="813" height="427" alt="Screenshot_16-5-2026_11157_localhost" src="https://github.com/user-attachments/assets/68411bb0-8331-4c79-a0ef-c479c449f1fe" />
+
+<img width="804" height="382" alt="Screenshot_16-5-2026_11215_localhost" src="https://github.com/user-attachments/assets/53c17630-747a-47d5-adc7-41d1c4cd66d3" />
+
+<img width="824" height="356" alt="Screenshot_16-5-2026_11234_localhost" src="https://github.com/user-attachments/assets/fa474184-67ea-4d06-b0b0-f12206ce3760" />
+
