@@ -24,9 +24,10 @@ hp_akinator/
 ├── hp_modified.csv    # Your finalized, curated, binary character dataset
 └── README.md          # Project documentation
 
-<img width="813" height="427" alt="Screenshot_16-5-2026_11157_localhost" src="https://github.com/user-attachments/assets/68411bb0-8331-4c79-a0ef-c479c449f1fe" />
+```
+<img width="813" height="427" alt="Screenshot_16-5-2026_11157_localhost" src="https://github.com/user-attachments/assets/f571526f-23dd-4dbb-ad9e-2d3b0fb27f40" />
 
-<img width="804" height="382" alt="Screenshot_16-5-2026_11215_localhost" src="https://github.com/user-attachments/assets/53c17630-747a-47d5-adc7-41d1c4cd66d3" />
+<img width="804" height="382" alt="Screenshot_16-5-2026_11215_localhost" src="https://github.com/user-attachments/assets/40c77056-70d4-4368-b27a-264796422750" />
 
-<img width="824" height="356" alt="Screenshot_16-5-2026_11234_localhost" src="https://github.com/user-attachments/assets/fa474184-67ea-4d06-b0b0-f12206ce3760" />
+<img width="824" height="356" alt="Screenshot_16-5-2026_11234_localhost" src="https://github.com/user-attachments/assets/0ed72da2-116d-40d6-8df7-a56b011b609a" />
 
